@@ -4,7 +4,7 @@ An automated legal document summarizer built with Hugging Face and BART.
 # Project Goal
 To build an automated Legal Document Summarizer that can take long, complex US Congressional and California state bills and condense them into short, readable summaries.
 
-# The Tech Stack (What you used)
+# The Tech Stack
 Platform: Google Colab (using T4 GPU acceleration).
 Library: Hugging Face transformers and datasets.
 Model: facebook/bart-large-cnn (A 400M+ parameter deep learning model).
